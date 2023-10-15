@@ -1,0 +1,15 @@
+h1{
+    font-size: 350%;
+    text-align: center;
+}
+aside{
+    background-color: lightsalmon;
+    border: 1px solid black;
+    width:20%;
+    font-size: 120%;
+    text-align: justify;
+    padding: 4px;
+    font-style: italic;
+    margin-left: 75%;
+    margin-top: 11%;
+}
