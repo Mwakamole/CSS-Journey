@@ -1,0 +1,16 @@
+h1{
+    font-size: 350%;
+    text-align: center;
+}
+P{
+    font-size: 150%;
+}
+#uppercase{
+    text-transform: uppercase;
+}
+#lowercase::first-letter{
+    text-transform: lowercase;
+}
+#capitalize{
+    text-transform: capitalize;
+}
