@@ -1,0 +1,17 @@
+.h1{
+    font-size: 350%;
+    text-align: center;
+    background-color: green;
+    opacity: 0.3;
+}
+.p1{
+    font-size: 150%;
+    text-align:justify;
+    background-color: green;
+    opacity: 0.7;
+}
+.p2{
+    font-size: 150%;
+    text-align:justify;
+    background-color:rgba(0,256, 0, 0.9);
+}
