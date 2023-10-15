@@ -14,5 +14,23 @@ aside{
     margin-top: 11%;
 }
 p{
-    font-size: 150%;
+    font-size: 110%;
 }
+h3{
+    margin-left: 10%;
+}
+#alignedp1{
+ text-align-last: right;
+ margin-left: 2%;
+ margin-right: 2%;
+}
+#alignedp2{
+    text-align-last: left;
+    margin-left: 2%;
+    margin-right: 2%;
+   }
+#alignedp3{
+    text-align-last: left;
+    margin-left: 2%;
+    margin-right: 2%;
+   }
