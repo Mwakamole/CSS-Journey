@@ -1,0 +1,16 @@
+h1{
+    font-size: 350%;
+    text-align: center;
+}
+p{
+    font-size: 250%;
+}
+#shadow1{
+    text-shadow: 2px 2px 3px rgb(130, 245, 130);
+}
+#shadow2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 270%;
+    color: white;
+    text-shadow: 2px 2px 1px rgb(184, 30, 176);
+}
