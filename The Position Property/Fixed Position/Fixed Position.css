@@ -1,0 +1,29 @@
+h1{
+    font-size: 4em;
+    text-align: center;
+    margin: 0;
+}
+p{
+    font-size: 1.2em;
+}
+.fixed{
+    position: fixed;
+    left: 0px;
+    bottom: 0;
+    margin: 0;
+    border:3px solid #73AD21;
+       
+}
+#githublogo{
+    position:fixed;
+    bottom: 0;
+    right: 0;
+}
+#instagramlogo{
+    position: fixed;
+    bottom: 0;
+    margin-left: 93.5%;
+}
+div{
+    background-color: white;
+}

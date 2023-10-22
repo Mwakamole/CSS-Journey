@@ -1,0 +1,20 @@
+h1{
+    font-size: 400%;
+    text-align: center;
+}
+p{
+    font-size: 150%;
+}
+div{
+    background-color: coral;
+    display: block;
+    font-size: 2.5em;
+    width:fit-content;
+    margin-left: 10px;
+}
+a:hover{
+background-color: rgb(131, 54, 21);
+}
+a{
+    padding: 0px 30px;
+}

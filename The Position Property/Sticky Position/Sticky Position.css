@@ -1,0 +1,15 @@
+h1{
+    font-size: 4em;
+    text-align: center;
+}
+p{
+    font-size: 1.5em;
+}
+.sticky{
+    position: sticky;
+    position: -webkit-sticky;/*for Safari*/
+    top: 0;
+    background-color: aquamarine;
+    padding: 2px solid black;
+
+}
