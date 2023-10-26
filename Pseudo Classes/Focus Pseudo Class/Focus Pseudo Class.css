@@ -1,0 +1,12 @@
+h1{
+    font-size: 4em;
+}
+p{
+    font-size: 1.5em;
+}
+form{
+    font-size: 1.25em;
+}
+input:focus{
+    background-color: aquamarine;
+}

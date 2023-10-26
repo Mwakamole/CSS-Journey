@@ -1,0 +1,16 @@
+h1{
+    font-size: 4em;
+}
+p{
+    font-size: 1.5em;
+}
+.hello:hover{
+    color: rgb(190, 103, 21);
+    font-size: 2em;
+}
+a{
+    font-size: 1.5em;
+}
+a.link:hover{
+    font-size: 2em;
+}
