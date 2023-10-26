@@ -1,0 +1,11 @@
+h1{
+    font-size: 4em;
+    text-align: center;
+}
+p{
+    font-size: 1.5em;
+}
+p.styled::first-line{
+    text-indent: 5%;
+    color: blue;
+}
