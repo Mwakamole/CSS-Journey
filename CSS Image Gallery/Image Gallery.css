@@ -1,0 +1,22 @@
+h1{
+    font-size: 4em;
+    text-align: center;
+}
+.image{
+    float: left;
+    position: relative;
+    padding: 7px 7px 15px 7px;
+    border: 0.2px solid rgb(151, 145, 145);
+    margin-left: 5px;
+}
+.description{
+    text-align: center;
+    padding: 0%;
+    margin: 0%;
+    text-decoration: none;
+}
+a:link{
+    text-decoration: none;
+    color: black;
+}
+
