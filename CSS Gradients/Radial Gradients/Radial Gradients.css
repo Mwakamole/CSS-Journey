@@ -1,0 +1,21 @@
+h1{
+    font-size: 3em;
+    text-align: center;
+}
+p{
+    font-size: 1.3em;
+}
+#default{
+    height: 10cm;
+    width: 10cm;
+    text-align: center;
+    margin: auto;
+    background-image: radial-gradient(red, blue, green);
+}
+#uneven{
+    height: 10cm;
+    width: 10cm;
+    text-align: center;
+    margin: auto;
+    background-image: radial-gradient(yellow 20%, blue 5%, green);
+}

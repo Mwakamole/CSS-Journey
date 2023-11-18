@@ -1,0 +1,33 @@
+h1{
+    font-size: 3em;
+    text-align: center;
+}
+p{
+    font-size: 1.3em;
+}
+#default{
+    background-image: conic-gradient(red, yellow, green);
+    margin: auto;
+    height: 10cm;
+    width: 60%;
+}
+#degrees{
+    background-image: conic-gradient(red 90deg, yellow 180deg, green 90deg);
+    margin: auto;
+    height: 10cm;
+    width: 60%;
+}
+#piechart{
+    background-image: conic-gradient(red, yellow, green, blue, brown);
+    border-radius: 50%;
+    margin: auto;
+    height: 20cm;
+    width: 60%;
+}
+#defined{
+    background-image: conic-gradient(red 0deg, red 60deg, yellow 60deg, yellow 120deg, green 120deg, green 180deg, blue 180deg, blue 240deg, brown 240deg, brown 300deg);
+    border-radius: 50%;
+    margin: auto;
+    height: 20cm;
+    width: 60%;
+}

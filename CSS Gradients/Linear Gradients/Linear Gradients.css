@@ -1,0 +1,38 @@
+h1{
+    font-size: 3em;
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+p{
+    font-size: 1.3em;
+}
+#default{
+    background-image: linear-gradient(red, rgb(181, 218, 114));
+    align-content: center;
+    padding-bottom: 100px;
+    width: 80%;
+    margin: auto;
+}
+#toright{
+    background-image: linear-gradient(to right, red , orange, yellow, green, blue, indigo, violet);
+    align-content: center;
+    padding-bottom: 100px;
+    width: 80%;
+    margin: auto;
+}
+#diagonal{
+    background-image: linear-gradient(to right bottom, red , orange, yellow, green, blue);
+    align-content: center;
+    padding-bottom: 100px;
+    width: 80%;
+    margin: auto;
+}
+#transparent{
+    background-image: linear-gradient(to right, rgba(255, 0, 0, 0), rgba(255,0,0,1));
+    align-content: center;
+    padding-bottom: 100px;
+    width: 80%;
+    margin: auto;
+}
