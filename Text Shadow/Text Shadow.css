@@ -14,3 +14,6 @@ p{
     color: white;
     text-shadow: 2px 2px 1px rgb(184, 30, 176);
 }
+#multiple_shadows p{
+    text-shadow: 1px 1px 3px black, 1px 1px 1px red;
+}
