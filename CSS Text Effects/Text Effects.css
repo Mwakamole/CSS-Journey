@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    font-size: 3em;
+}
+p{
+    font-size: 1.3em;
+}
+#wordwrap{
+    word-wrap: break-word;
+    width: 11em;
+    height: 5cm;
+    border: 1px solid black;
+}
+#wordbreak1{
+    word-break: keep-all;
+    width: 140px;
+    height: 5cm;
+    border: 1px solid black;
+}
+#wordbreak2{
+    word-break: break-all;
+    width: 140px;
+    height: 5cm;
+    border: 1px solid black;
+}
+#vertical{
+    writing-mode: vertical-lr;
+}
