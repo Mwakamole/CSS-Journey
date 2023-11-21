@@ -1,0 +1,37 @@
+h1{
+    font-size: 3em;
+    text-align: center;
+}
+p{
+    font-size: 1.3em;
+}
+#rotatex{
+    background-color: red;
+    width: 25%;
+    margin: auto;
+    border: 2px solid black;
+    padding: 1cm;
+}
+#rotatex:hover{
+    transform: rotateX(80deg)
+}
+#rotatey{
+    background-color: red;
+    width: 25%;
+    margin: auto;
+    border: 2px solid black;
+    padding: 1cm;
+}
+#rotatey:hover{
+    transform: rotateY(140deg)
+}
+#rotatez{
+    background-color: red;
+    width: 25%;
+    margin: auto;
+    border: 2px solid black;
+    padding: 1cm;
+}
+#rotatez:hover{
+    transform: rotateZ(90deg)
+}
