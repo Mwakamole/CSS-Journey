@@ -1,0 +1,90 @@
+h1{
+    font-size: 3em;
+    text-align: center;
+}
+h2{
+    font-size: 2em;
+}
+p{
+    font-size: 1.3em;
+}
+#translate{
+    background-color: red;
+    width: 25%;
+    margin: auto;
+    border: 2px solid black;
+    padding: 1cm;
+}
+#translate:hover{
+    transform: translate(80px, 80px);
+}
+#rotate{
+    background-color: red;
+    width: 25%;
+    margin: auto;
+    border: 2px solid black;
+    padding: 1cm;
+}
+#rotate:hover{
+    transform: rotate(90deg);
+}
+#scale{
+    background-color: red;
+    width: 25%;
+    margin: auto;
+    border: 2px solid black;
+    padding: 1cm;
+}
+#scale:hover{
+    transform: scale(2, 3);
+}
+#scalex{
+    background-color: red;
+    width: 25%;
+    margin: auto;
+    border: 2px solid black;
+    padding: 1cm;
+}
+#scalex:hover{
+    transform: scalex(0.5);
+}
+#scaley{
+    background-color: red;
+    width: 25%;
+    margin: auto;
+    border: 2px solid black;
+    padding: 1cm;
+}
+#scaley:hover{
+    transform: scaley(3);
+}
+#skew{
+    background-color: red;
+    width: 25%;
+    margin: auto;
+    border: 2px solid black;
+    padding: 1cm;
+}
+#skew:hover{
+    transform: skew(20deg, 10deg);
+}
+#skewx{
+    background-color: red;
+    width: 25%;
+    margin: auto;
+    border: 2px solid black;
+    padding: 1cm;
+}
+#skewx:hover{
+    transform: skewx(20deg);
+}
+#skewy{
+    background-color: red;
+    width: 25%;
+    margin: auto;
+    border: 2px solid black;
+    padding: 1cm;
+}
+#skewy:hover{
+    transform: skewy(20deg);
+}
