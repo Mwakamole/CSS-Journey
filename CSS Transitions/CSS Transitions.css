@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    font-size: 3em;
+}
+p{
+    font-size: 1.3em;
+}
+.transition{
+    width: 100px;
+    height: 100px;
+    background: coral;
+    transition: width 2s;
+}
+.transition:hover{
+    width: 150px;
+}
+.multiple{
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    background: rgb(80, 255, 232);
+    transition: width 2s, background 2s, height 2s, transform 3s;
+}
+.multiple:hover{
+    height: 120px;
+    width: 120px;
+    background: rgb(0, 255, 76);
+    transform: scale(1.5);
+    transform: rotate(180deg);
+}
