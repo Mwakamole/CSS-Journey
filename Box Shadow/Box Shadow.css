@@ -1,0 +1,13 @@
+h1{
+    font-size: 3em;
+    text-align: center;
+}
+#boxshadow{
+    height: 5cm;
+    width: 60%;
+    margin: auto;
+    border: 2px solid black;
+    text-align: center;
+    padding: 3cm;
+    box-shadow: 2px 2px 3px green;
+}

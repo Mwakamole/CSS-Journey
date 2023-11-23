@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    font-size: 3em;
+}
+p{
+    font-size: 1.3em;
+}
+@keyframes example1{
+    0%{background-color: red;}
+    25%{background-color: yellow;}
+    50%{background-color: green;}
+    75%{background-color: blue;}
+    100%{background-color: deeppink;}
+}
+    
+#example1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    animation-name: example1;
+    animation-duration: 30s;
+    transition: transform 10s, width 20s;
+}
+#example1:hover{
+    transform: scale(3);
+    width: 200px;
+}
+@keyframes example2{
+    0%{background-color: red;}
+    25%{background-color: yellow;}
+    50%{background-color: green;}
+    75%{background-color: blue;}
+    100%{background-color: deeppink;}
+}
+#example2{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    animation-name: example2;
+    animation-duration: 20s;
+    transition: transform 20s;
+}
+#example2:hover{
+    transform: rotate(180deg);
+}
